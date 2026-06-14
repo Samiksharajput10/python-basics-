@@ -1,0 +1,1 @@
+print("Samiksha Rajput"\n 18 "years old")
